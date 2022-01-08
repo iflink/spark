@@ -1,0 +1,10 @@
+class-01 90
+class-02 56
+class-01 87
+class-01 76
+class-02 88
+class-01 95
+class-01 74
+class-02 87
+class-02 67
+class-02 77

@@ -1,0 +1,4 @@
+Dstream的所有计算,都是由Output触发的。没有Output不会触发任何逻辑运算。
+
+此外,即使使用了output的foreachRDD操作,也必须在其内部对RDD执行action操作,
+才能触发RDD的逻辑运算。
